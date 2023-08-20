@@ -1,5 +1,8 @@
 
 <h3 align="center">⚠️ Cabeça trabalhando constantemente! ⚠️</h3>
+
+<p align="center"><img src="https://count.getloli.com/get/@:limmachaindev?theme=soul" width="400"></p><br>
+
 <h4 align="center">Nossa mente em particular a minha pensa tanto que preciso passar as informações para todos os apaxoinados por código.</h4>
 <br>
 <p align="center">
@@ -11,8 +14,6 @@
 <p float="left" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=limmachaindev&theme=tokyo-day">
 </p>
-
-<p align="center"><img src="https://count.getloli.com/get/@:limmachaindev?theme=soul" width="400"></p><br>
 
 <p float="left" align="center">
 
