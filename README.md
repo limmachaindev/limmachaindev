@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@:limmachaindev?theme=soul" width="400"></p><br>
 
-<h4 align="center">Nossa mente em particular a minha pensa tanto que preciso passar as informações para todos os apaxoinados por código.</h4>
+<h4 align="center">Nossa mente, em particular a minha, pensa tanto que preciso passar as informações para todos os apaxoinados por código.</h4>
 <br>
 <p align="center">
 
