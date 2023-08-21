@@ -7,7 +7,7 @@
 <br>
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C85121&center=true&width=900&height=100&lines=Um+home+me+falou+um+dia%3A;O+desenvolvedor+deve+amar+seus+c%C3%B3digos;mais+ajudar+ao+pr%C3%B3ximo+%C3%A9+o+mais+importante)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C85121&center=true&width=900&height=100&lines=Um+homem+me+falou+um+dia%3A;O+desenvolvedor+deve+amar+seus+c%C3%B3digos;mais+ajudar+ao+pr%C3%B3ximo+%C3%A9+o+mais+importante)](https://git.io/typing-svg)
 
 </p>
 
